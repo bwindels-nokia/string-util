@@ -1,0 +1,10 @@
+{
+  "name": "string-util",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "collection of utility functions to work with string not provided by javascript String class",
+  "main": "./lib/index.js",
+  "dependencies" : {
+  	"underscore": "1.x"
+  }
+}
